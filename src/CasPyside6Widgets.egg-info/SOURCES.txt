@@ -1,0 +1,11 @@
+pyproject.toml
+requirements.txt
+setup.cfg
+src/CasPyside6Widgets/DrawerWidget.py
+src/CasPyside6Widgets/OverlayWidget.py
+src/CasPyside6Widgets/__init__.py
+src/CasPyside6Widgets.egg-info/PKG-INFO
+src/CasPyside6Widgets.egg-info/SOURCES.txt
+src/CasPyside6Widgets.egg-info/dependency_links.txt
+src/CasPyside6Widgets.egg-info/requires.txt
+src/CasPyside6Widgets.egg-info/top_level.txt
